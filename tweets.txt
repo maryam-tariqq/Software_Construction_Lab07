@@ -1,0 +1,9 @@
+# id|author|timestamp|text
+1|rivest|2016-02-17T10:00:00Z|talk in 30 minutes #hype
+2|bbitdiddle|2016-02-17T10:05:00Z|@rivest talk in 30 minutes #hype
+3|alyssa|2016-02-17T10:10:00Z|is it reasonable to talk about rivest so much?
+4|evaluator|2016-02-17T10:15:00Z|@alyssa and @bbitdiddle see you at lecture
+5|ben-b|2016-02-17T10:20:00Z|@Alyssa @rivest great talk
+6|louis_r|2016-02-17T10:25:00Z|@ALYSSA @bbitdiddle @louis_r thanks
+7|cy_d_fect|2016-02-17T10:30:00Z|@alyssa @rivest @bbitdiddle nice work
+8|alyssa|2016-02-17T10:35:00Z|email me at alyssa@mit.edu
